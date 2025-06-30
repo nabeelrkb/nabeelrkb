@@ -1,18 +1,24 @@
-## Hi there 👋
+## Hi there 👋, I'm Nabeel Raza Khan!
+I'm a second-year CS undergrad, diving into web development and open-source one commit at a time. 🚀
 
-<!--
-**nabeelrkb/nabeelrkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
+- HTML5 / CSS3 / JavaScript
+- Git / GitHub
+- Currently exploring: React & DSA
 
-Here are some ideas to get you started:
+![Nabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabeelrkb&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelrkb&layout=compact&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nabeelrkb&theme=dark)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+- JavaScript fundamentals
+- React
+- DSA
 
-![Nabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabeelrkb&show_icons=true&theme=dark&count_private=true)
+
+### 📫 Connect with me:
+- Email: azarleeban@gmail.com
+- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/nabeel-raza-080849338/)
+- Instageam: [YourInstagram](https://www.instagram.com/nabeelrk_/)
+
+☕ Powered by chai and deadlines.
