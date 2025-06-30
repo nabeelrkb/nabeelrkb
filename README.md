@@ -6,9 +6,9 @@ I'm a second-year CS undergrad, diving into web development and open-source one 
 - Git / GitHub
 - Currently exploring: React & DSA
 
-![Nabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabeelrkb&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelrkb&layout=compact&theme=dark)
+![Profile views](https://komarev.com/ghpvc/?username=nabeelrkb&color=green&style=flat-square)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nabeelrkb&theme=dark)](https://git.io/streak-stats)
+
 
 ### 🌱 I’m currently learning:
 - JavaScript fundamentals
